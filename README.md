@@ -20,7 +20,7 @@ Follow this link: https://docs.github.com/en/github/authenticating-to-github/con
 
 Follow this link: https://docs.haskellstack.org/en/stable/install_and_upgrade/#linux
 
-## Make sure you have Emacs installed
+## Install Emacs
 
 Follow this link: https://medium.com/@mcsonique/installing-spacemacs-on-ubuntu-19-04-disco-6930916f257f
 
