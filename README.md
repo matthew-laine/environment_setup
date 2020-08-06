@@ -12,7 +12,7 @@ Follow this link: https://www.atlassian.com/git/tutorials/install-git
 
 Make sure that when you set up your git config, that you use the username and user email with which you have set up your GitHub account.
 
-## Set up ssh access to GitHub
+## Set up SSH access to GitHub
 
 Follow this link: https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
 
