@@ -23,3 +23,7 @@ Follow this link: https://docs.haskellstack.org/en/stable/install_and_upgrade/#l
 ## Make sure you have Emacs installed
 
 Follow this link: https://medium.com/@mcsonique/installing-spacemacs-on-ubuntu-19-04-disco-6930916f257f
+
+## Install Terminology
+
+Follow this link: https://snapcraft.io/install/terminology/ubuntu
